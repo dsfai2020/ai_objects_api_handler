@@ -7,7 +7,7 @@ import setuptools
 
 setuptools.setup(
     name='ai_objects_api_handler',
-    version='0.0.0',    
+    version='0.0.4',    
     description='Your new package',
     url='git@github.com:dsfai2020/ai_objects_api_handler.git',
     author='David Fai',
