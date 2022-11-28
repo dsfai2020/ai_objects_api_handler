@@ -6,15 +6,19 @@
 
                 # WHAT THIS IS USED FOR
 
-                This app is intended to be used as a custom python package and imported into a python file for consumption.
-                The goal is to make the connection process to the API more abstract and easier to handle for users.
+                A light-weight communication layer.
 
-                Example:
-                    requests.get('https://some_api_route.com')
+                This app is intended to be used as a custom python 
+                package and imported into a python file for consumption. 
+                The goal is to make the connection process to the API 
+                more abstract and easier to handle for users.
 
-                    classobject.start()
-                        -- Does the same thing but the user just has to make an object and call the start function.
+                Example: requests.get('https://some_api_route.com')
 
-                # Things like Authorization can be implemented
-                # This package can be pip installed
+                    classobject.start() -- Does the same thing but the 
+                        user just has to make an object and call the 
+                        start function.
+
+                # Things like Authorization can be implemented This 
+                # package can be pip installed
                 
